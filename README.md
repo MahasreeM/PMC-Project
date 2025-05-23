@@ -1,6 +1,7 @@
 # PROJECT - INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
 
-## Name : Rhudhra phriyamvadha K S
+## Name : MAHA SHREE.M
+## REGNO: 212224110035
 ## Date : 25-04-2025
 
 ## Aim: 
